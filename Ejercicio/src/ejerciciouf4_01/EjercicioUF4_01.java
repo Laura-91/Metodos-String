@@ -28,6 +28,7 @@ public class EjercicioUF4_01 {
         }
 
         lector.close();
+	System.out.println("Fin del programa");
 
     }
     
